@@ -1,5 +1,5 @@
 // Owner number
-global.owner = '6282141544557'
+global.owner = '6283144670363'
 // Owner name
 global.owner_name = 'Customer Service'
 // Maximum upload file size limit (Default : 50 MB)
